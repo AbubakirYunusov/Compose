@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComPose</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_hari">Hari Prasad</string>
+    <string name="featured">Featured</string>
+    <string name="all">All</string>
+</resources>
